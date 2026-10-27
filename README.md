@@ -50,6 +50,9 @@ Unified API for accessing 200+ AI models with pay-as-you-go pricing.
 | [Alors On Danse Video Maker](https://alorsondansevideo.com) | Independent: two photos → 13s studio dance | Paid |
 | [Bad Times AI](https://badtimesai.dev) | Independent AI dance effect: one photo → 14–15s | Paid from $7.99 |
 | [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Independent AI scene effect: two photos → meeting clip | Paid from $7.99 |
+| [KDA Firestarter AI Dance](https://kdafirestarterai.dev) | Edison Yang (independent) | Photo-to-video | Short | Independent unofficial AI: one photo → 13s 480p 21:9 solo dance (Paid from $7.99). Not affiliated with Riot Games or K/DA | [kdafirestarterai.dev](https://kdafirestarterai.dev) |
+| [A2O LITE NEON AI Dance](https://a2oliteai.org) | Edison Yang (independent) | Photo-to-video | Short | Independent AI: two photos → 15s 480p 16:9 duo neon dance with reference soundtrack (Paid from $7.99) | [a2oliteai.org](https://a2oliteai.org) |
+| [dime dime baby ai](https://dimedimebabyai.dev) | Edison Yang (independent) | Photo-to-video | Short | Independent AI: one photo → ~5s 480p 9:16 AI dance (Quince Classic or Party Groove) (Paid from $7.99) | [dimedimebabyai.dev](https://dimedimebabyai.dev) |
 
 ---
 
