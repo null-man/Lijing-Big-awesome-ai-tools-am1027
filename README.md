@@ -46,6 +46,7 @@ Unified API for accessing 200+ AI models with pay-as-you-go pricing.
 | [HeyGen](https://heygen.com) | AI avatars / talking head | $29/mo |
 | [Sora](https://openai.com/sora) | High-quality generation | ChatGPT Plus |
 | [Synthesia](https://synthesia.io) | Corporate training videos | $22/mo |
+| [GrokVideo Studio](https://grokvideogenerator.dev) | Independent Grok Imagine text/image-to-video | Free Trial |
 
 ---
 
@@ -58,6 +59,8 @@ Unified API for accessing 200+ AI models with pay-as-you-go pricing.
 | [Stable Diffusion](https://stability.ai) | Open source / self-host | Free |
 | [Leonardo AI](https://leonardo.ai) | Game assets | Free tier |
 | [Adobe Firefly](https://firefly.adobe.com) | Commercial safe | Free tier |
+| [PromptImage](https://promptimage.cloud) | Free image & video studio + prompt library | Freemium |
+| [TeslaWraps](https://teslawraps.design) | Tesla wrap designer; core editing free | Freemium |
 
 ---
 
