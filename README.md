@@ -47,9 +47,9 @@ Unified API for accessing 200+ AI models with pay-as-you-go pricing.
 | [Sora](https://openai.com/sora) | High-quality generation | ChatGPT Plus |
 | [Synthesia](https://synthesia.io) | Corporate training videos | $22/mo |
 | [GrokVideo Studio](https://grokvideogenerator.dev) | Independent Grok Imagine text/image-to-video | Free Trial |
-| [Alors On Danse Video Maker](https://alorsondansevideo.com) | Independent Grok Imagine text/image-to-video | Free Trial |
-| [Bad Times AI](https://badtimesai.dev) | Independent Grok Imagine text/image-to-video | Free Trial |
-| [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Independent Grok Imagine text/image-to-video | Free Trial |
+| [Alors On Danse Video Maker](https://alorsondansevideo.com) | Independent: two photos → 13s studio dance | Paid |
+| [Bad Times AI](https://badtimesai.dev) | Independent AI dance effect: one photo → 14–15s | Paid from $7.99 |
+| [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Independent AI scene effect: two photos → meeting clip | Paid from $7.99 |
 
 ---
 
